@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ILanguage-Session-Interaction-Contracts:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ILanguage_Session_Interaction_Contracts_jar</output-path>
+    <root id="archive" name="ILanguage-Session-Interaction-Contracts.jar">
+      <element id="module-output" name="ILanguage-Session-Interaction-Contracts" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/axonframework/axon-messaging/4.5.3/axon-messaging-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/xpp3/xpp3/1.1.4c/xpp3-1.1.4c.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/axonframework/axon-core/3.2/axon-core-3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/thoughtworks/xstream/xstream/1.4.9/xstream-1.4.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/axonframework/axon-modelling/4.5.3/axon-modelling-4.5.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.22/lombok-1.18.22.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
